@@ -21,7 +21,7 @@ repository               : "clairemcmahon19/clairemcmahon.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.png"
   name             : "Claire McMahon"
   pronouns         : "she/her"  
   bio              : "Research Professional"
